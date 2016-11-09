@@ -32,7 +32,7 @@ Disable [password expiry][3] for API accounts.
 
 [1]: https://www.zuora.com/apps/Api.do
 [2]: https://www.zuora.com/apps/UserLogin.do?method=edit&flag=1
-[3]: http://knowledgecenter.zuora.com/kb/How_do_I_prevent_my_API_user_login_from_expiring%3F
+[3]: https://knowledgecenter.zuora.com/kb/How_do_I_prevent_my_API_user_login_from_expiring%3F
 
 ## Usage
 
